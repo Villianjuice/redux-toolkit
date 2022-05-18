@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.check:checked + span{
+  text-decoration: line-through;
+}
+ul {
+  list-style: none;
+}
